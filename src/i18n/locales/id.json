@@ -1,0 +1,11 @@
+{
+  "app": { "name": "Smooth Builder", "tagline": "Website profesional. Khusus industri. Tanpa kode." },
+  "nav": { "templates": "Template", "sections": "Bagian", "theme": "Tema", "settings": "Pengaturan", "seo": "SEO", "export": "Ekspor", "import": "Impor", "preview": "Pratinjau", "undo": "Batalkan", "redo": "Ulangi" },
+  "sections": { "header": "Navigasi", "hero": "Bagian Hero", "trustBar": "Bar Kepercayaan", "services": "Layanan", "about": "Tentang Kami", "team": "Tim", "testimonials": "Testimoni", "faq": "FAQ", "contact": "Kontak", "cta": "Ajakan Bertindak", "stickyCta": "CTA Tetap", "footer": "Footer", "cookieBanner": "Banner Cookie" },
+  "actions": { "save": "Simpan", "cancel": "Batal", "delete": "Hapus", "edit": "Edit", "add": "Tambah", "remove": "Hapus", "upload": "Unggah", "download": "Unduh", "generate": "Buat", "duplicate": "Duplikat", "moveUp": "Pindah ke Atas", "moveDown": "Pindah ke Bawah" },
+  "status": { "saved": "Tersimpan", "saving": "Menyimpan...", "unsaved": "Belum disimpan", "loading": "Memuat...", "error": "Error", "offline": "Offline" },
+  "templates": { "title": "Pilih Template", "treuhand": "Akuntansi & Keuangan", "arztpraxis": "Praktik Medis", "handwerker": "Pengrajin", "restaurant": "Restoran", "immobilien": "Real Estate", "it-digital": "IT & Digital", "coiffeur": "Rambut & Kecantikan", "anwaltskanzlei": "Firma Hukum" },
+  "export": { "title": "Ekspor Proyek", "format": "Format", "singleHtml": "File HTML Tunggal", "multiFile": "Beberapa File (ZIP)", "wordpress": "Tema WordPress", "options": "Opsi", "includeImages": "Sertakan Gambar", "minify": "Minifikasi Kode", "includeSeo": "Sertakan Data SEO", "download": "Unduh", "success": "Ekspor berhasil!" },
+  "theme": { "title": "Kustomisasi Tema", "colors": "Warna", "primary": "Warna Utama", "secondary": "Warna Sekunder", "accent": "Warna Aksen", "background": "Latar Belakang", "text": "Warna Teks", "fonts": "Font", "headingFont": "Judul", "bodyFont": "Teks Badan", "borderRadius": "Radius Border", "contrastWarning": "Peringatan: Kontras di bawah 5:1" },
+  "errors": { "required": "Bidang ini wajib diisi", "invalidEmail": "Alamat email tidak valid", "invalidUrl": "URL tidak valid", "fileTooLarge": "File terlalu besar (maks {{max}})", "unsupportedFormat": "Format tidak didukung" }
+}

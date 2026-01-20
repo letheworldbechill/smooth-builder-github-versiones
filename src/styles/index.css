@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* =============================================================================
+   GASSERWERK TOKENS (DEFAULT: DARK PREMIUM)
+   - All UI primitives use Tailwind token classes (bg-surface, text-text, etc.)
+   ============================================================================= */
+
+:root {
+  color-scheme: dark;
+
+  --gw-bg: #0B0D10;
+  --gw-surface: #11151B;
+  --gw-surface-soft: #151B23;
+
+  --gw-text: #F5F7FA;
+  --gw-text-soft: #C6CFDB;
+  --gw-text-muted: #8A95A6;
+
+  --gw-border: #1F2631;
+
+  /* Brand (Gasserwerk gold) */
+  --gw-brand: #D4A84B;
+  --gw-brand-hover: #C99A3F;
+  --gw-brand-soft: rgba(212, 168, 75, 0.12);
+
+  --gw-success: #22C55E;
+  --gw-warning: #F59E0B;
+  --gw-error: #EF4444;
+}
+
+/* Global base */
+html, body {
+  height: 100%;
+  background: var(--gw-bg);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--gw-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(138, 149, 166, 0.35);
+  border-radius: 9999px;
+  border: 2px solid var(--gw-bg);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(138, 149, 166, 0.55);
+}

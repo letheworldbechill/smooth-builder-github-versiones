@@ -1,0 +1,21 @@
+{
+  "name": "Smooth Builder Pro",
+  "short_name": "Smooth Builder",
+  "description": "Professionelle Websites. Branchenspezifisch. Ohne Code.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1f2937",
+  "theme_color": "#3b82f6",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"],
+  "lang": "de",
+  "dir": "ltr"
+}

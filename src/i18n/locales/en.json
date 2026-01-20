@@ -1,0 +1,134 @@
+{
+  "app": {
+    "name": "Smooth Builder",
+    "tagline": "Professional websites. Industry-specific. No code."
+  },
+  "nav": {
+    "templates": "Templates",
+    "sections": "Sections",
+    "theme": "Theme",
+    "settings": "Settings",
+    "seo": "SEO",
+    "export": "Export",
+    "import": "Import",
+    "preview": "Preview",
+    "undo": "Undo",
+    "redo": "Redo"
+  },
+  "sections": {
+    "header": "Navigation",
+    "hero": "Hero Section",
+    "trustBar": "Trust Bar",
+    "services": "Services",
+    "about": "About Us",
+    "team": "Team",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Call-to-Action",
+    "stickyCta": "Sticky CTA",
+    "footer": "Footer",
+    "cookieBanner": "Cookie Banner"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "remove": "Remove",
+    "upload": "Upload",
+    "download": "Download",
+    "generate": "Generate",
+    "duplicate": "Duplicate",
+    "moveUp": "Move Up",
+    "moveDown": "Move Down"
+  },
+  "status": {
+    "saved": "Saved",
+    "saving": "Saving...",
+    "unsaved": "Unsaved",
+    "loading": "Loading...",
+    "error": "Error",
+    "offline": "Offline - Changes saved locally"
+  },
+  "templates": {
+    "title": "Choose a Template",
+    "treuhand": "Accounting & Finance",
+    "arztpraxis": "Medical Practice",
+    "handwerker": "Craftsman",
+    "restaurant": "Restaurant",
+    "immobilien": "Real Estate",
+    "it-digital": "IT & Digital",
+    "coiffeur": "Hair & Beauty",
+    "anwaltskanzlei": "Law Firm"
+  },
+  "export": {
+    "title": "Export Project",
+    "format": "Format",
+    "singleHtml": "Single HTML File",
+    "multiFile": "Multiple Files (ZIP)",
+    "wordpress": "WordPress Theme",
+    "options": "Options",
+    "includeImages": "Embed Images",
+    "minify": "Minify Code",
+    "includeSeo": "Include SEO Data",
+    "download": "Download",
+    "success": "Export successful!"
+  },
+  "import": {
+    "title": "Import Website",
+    "url": "Website URL",
+    "wordpress": "Import WordPress",
+    "html": "Import HTML",
+    "analyzing": "Analyzing website...",
+    "success": "Import successful!",
+    "error": "Import failed"
+  },
+  "theme": {
+    "title": "Customize Theme",
+    "colors": "Colors",
+    "primary": "Primary Color",
+    "secondary": "Secondary Color",
+    "accent": "Accent Color",
+    "background": "Background",
+    "text": "Text Color",
+    "fonts": "Fonts",
+    "headingFont": "Headings",
+    "bodyFont": "Body Text",
+    "borderRadius": "Border Radius",
+    "contrastWarning": "Warning: Contrast below 5:1"
+  },
+  "accessibility": {
+    "title": "Accessibility",
+    "score": "Accessibility Score",
+    "contrast": "Contrast",
+    "structure": "Structure",
+    "interaction": "Interaction",
+    "media": "Media",
+    "passed": "Passed",
+    "failed": "Failed"
+  },
+  "seo": {
+    "title": "SEO Settings",
+    "pageTitle": "Page Title",
+    "description": "Description",
+    "keywords": "Keywords",
+    "ogImage": "Social Media Image",
+    "checklist": "SEO Checklist"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "invalidUrl": "Invalid URL",
+    "fileTooLarge": "File too large (max {{max}})",
+    "unsupportedFormat": "Format not supported"
+  },
+  "onboarding": {
+    "welcome": "Welcome to Smooth Builder",
+    "step1": "Choose an industry",
+    "step2": "Customize the design",
+    "step3": "Edit the content",
+    "step4": "Export your website"
+  }
+}

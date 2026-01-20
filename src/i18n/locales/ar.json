@@ -1,0 +1,134 @@
+{
+  "app": {
+    "name": "سموث بيلدر",
+    "tagline": "مواقع احترافية. متخصصة حسب المجال. بدون برمجة."
+  },
+  "nav": {
+    "templates": "القوالب",
+    "sections": "الأقسام",
+    "theme": "التصميم",
+    "settings": "الإعدادات",
+    "seo": "تحسين محركات البحث",
+    "export": "تصدير",
+    "import": "استيراد",
+    "preview": "معاينة",
+    "undo": "تراجع",
+    "redo": "إعادة"
+  },
+  "sections": {
+    "header": "الرأسية",
+    "hero": "القسم الرئيسي",
+    "trustBar": "شريط الثقة",
+    "services": "الخدمات",
+    "about": "من نحن",
+    "team": "الفريق",
+    "testimonials": "آراء العملاء",
+    "faq": "الأسئلة الشائعة",
+    "contact": "اتصل بنا",
+    "cta": "دعوة للعمل",
+    "stickyCta": "دعوة ثابتة",
+    "footer": "التذييل",
+    "cookieBanner": "إشعار ملفات تعريف الارتباط"
+  },
+  "actions": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "add": "إضافة",
+    "remove": "إزالة",
+    "upload": "رفع",
+    "download": "تحميل",
+    "generate": "إنشاء",
+    "duplicate": "تكرار",
+    "moveUp": "تحريك للأعلى",
+    "moveDown": "تحريك للأسفل"
+  },
+  "status": {
+    "saved": "تم الحفظ",
+    "saving": "جاري الحفظ...",
+    "unsaved": "غير محفوظ",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "offline": "أنت غير متصل بالإنترنت"
+  },
+  "templates": {
+    "title": "اختر قالباً",
+    "treuhand": "محاسبة ومالية",
+    "arztpraxis": "عيادة طبية",
+    "handwerker": "حرفي",
+    "restaurant": "مطعم",
+    "immobilien": "عقارات",
+    "it-digital": "تقنية المعلومات",
+    "coiffeur": "صالون تجميل",
+    "anwaltskanzlei": "مكتب محاماة"
+  },
+  "export": {
+    "title": "تصدير المشروع",
+    "format": "التنسيق",
+    "singleHtml": "ملف HTML واحد",
+    "multiFile": "ملفات متعددة (ZIP)",
+    "wordpress": "قالب ووردبريس",
+    "options": "الخيارات",
+    "includeImages": "تضمين الصور",
+    "minify": "ضغط الكود",
+    "includeSeo": "تضمين بيانات SEO",
+    "download": "تحميل",
+    "success": "تم التصدير بنجاح!"
+  },
+  "import": {
+    "title": "استيراد موقع",
+    "url": "رابط الموقع",
+    "wordpress": "استيراد ووردبريس",
+    "html": "استيراد HTML",
+    "analyzing": "جاري تحليل الموقع...",
+    "success": "تم الاستيراد بنجاح!",
+    "error": "فشل الاستيراد"
+  },
+  "theme": {
+    "title": "تخصيص التصميم",
+    "colors": "الألوان",
+    "primary": "اللون الأساسي",
+    "secondary": "اللون الثانوي",
+    "accent": "لون التمييز",
+    "background": "لون الخلفية",
+    "text": "لون النص",
+    "fonts": "الخطوط",
+    "headingFont": "خط العناوين",
+    "bodyFont": "خط النص",
+    "borderRadius": "زوايا الحدود",
+    "contrastWarning": "تحذير: نسبة التباين أقل من 5:1"
+  },
+  "accessibility": {
+    "title": "إمكانية الوصول",
+    "score": "نقاط إمكانية الوصول",
+    "contrast": "التباين",
+    "structure": "البنية",
+    "interaction": "التفاعل",
+    "media": "الوسائط",
+    "passed": "ناجح",
+    "failed": "فاشل"
+  },
+  "seo": {
+    "title": "إعدادات SEO",
+    "pageTitle": "عنوان الصفحة",
+    "description": "الوصف",
+    "keywords": "الكلمات المفتاحية",
+    "ogImage": "صورة وسائل التواصل",
+    "checklist": "قائمة تحقق SEO"
+  },
+  "errors": {
+    "required": "هذا الحقل مطلوب",
+    "invalidEmail": "عنوان بريد إلكتروني غير صالح",
+    "invalidUrl": "رابط غير صالح",
+    "fileTooLarge": "الملف كبير جداً (الحد الأقصى {{max}})",
+    "unsupportedFormat": "تنسيق غير مدعوم"
+  },
+  "onboarding": {
+    "welcome": "مرحباً بك في سموث بيلدر",
+    "step1": "اختر مجالاً",
+    "step2": "خصص التصميم",
+    "step3": "عدّل المحتوى",
+    "step4": "صدّر موقعك"
+  }
+}
